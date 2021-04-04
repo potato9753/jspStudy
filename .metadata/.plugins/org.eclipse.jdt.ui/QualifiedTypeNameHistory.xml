@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+<fullyQualifiedTypeName name="org.apache.catalina.Session"/>
+<fullyQualifiedTypeName name="com.dao.DeptDAO"/>
+<fullyQualifiedTypeName name="com.service.DeptService"/>
+<fullyQualifiedTypeName name="com.service.DeptServiceImpl"/>
+<fullyQualifiedTypeName name="com.dao.DeptDAOImpl"/>
+<fullyQualifiedTypeName name="java.lang.LinkageError"/>
+<fullyQualifiedTypeName name="com.config.MySqlSessionFactory"/>
+<fullyQualifiedTypeName name="com.dao.DBDao"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.service.DBService"/>
+<fullyQualifiedTypeName name="com.service.DeptOracleService"/>
+<fullyQualifiedTypeName name="com.dao.DeptOracleDAO"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="com.dto.Dept"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="com.dto.User"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="C:\jspstudy\apache-tomcat-8.5.61\webapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="13">
+    <list key="modules" value0="HelloTest::org.eclipse.jst.jee.server:HelloTest::jst.web::3.1" value1="01Day::org.eclipse.jst.jee.server:01Day::jst.web::3.1" value10="02Day3::org.eclipse.jst.jee.server:02Day3::jst.web::3.1" value2="01Day2::org.eclipse.jst.jee.server:01Day2::jst.web::3.1" value3="01Day3::org.eclipse.jst.jee.server:01Day3::jst.web::3.1" value4="DeptProject::org.eclipse.jst.jee.server:DeptProject::jst.web::3.1" value5="ELTest::org.eclipse.jst.jee.server:ELTest::jst.web::3.1" value6="standard-examples::org.eclipse.jst.jee.server:standard-examples::jst.web::3.0" value7="JSTLTest::org.eclipse.jst.jee.server:JSTLTest::jst.web::3.1" value8="02Day::org.eclipse.jst.jee.server:02Day::jst.web::3.1" value9="02Day2::org.eclipse.jst.jee.server:02Day2::jst.web::3.1"/>
+  </server>
+</servers>

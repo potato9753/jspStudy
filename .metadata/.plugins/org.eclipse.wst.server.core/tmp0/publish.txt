@@ -1,0 +1,13 @@
+#Tomcat publish data
+#Tue Feb 02 11:29:55 KST 2021
+org.eclipse.jst.jee.server\:DeptProject=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\DeptProject
+org.eclipse.jst.jee.server\:JSTLTest=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\JSTLTest
+org.eclipse.jst.jee.server\:02Day=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\02Day
+org.eclipse.jst.jee.server\:02Day3=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\02Day3
+org.eclipse.jst.jee.server\:02Day2=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\02Day2
+org.eclipse.jst.jee.server\:01Day3=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\01Day3
+org.eclipse.jst.jee.server\:01Day2=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\01Day2
+org.eclipse.jst.jee.server\:01Day=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\01Day
+org.eclipse.jst.jee.server\:HelloTest=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\HelloTest
+org.eclipse.jst.jee.server\:standard-examples=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\standard-examples
+org.eclipse.jst.jee.server\:ELTest=C\:\\jspstudy\\apache-tomcat-8.5.61\\webapps\\ELTest

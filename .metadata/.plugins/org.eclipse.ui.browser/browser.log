@@ -1,0 +1,16 @@
+
+2월 02, 2021 08:49:17.09 NEW SESSION
+2월 02, 2021 08:49:17.10 [13700:33088:0202/084916.538:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+2월 02, 2021 08:49:21.24 [13700:34628:0202/084921.243:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 03, 2021 08:48:39.58 [13700:33088:0203/084839.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+2월 03, 2021 08:48:44.65 [13700:37424:0203/084844.657:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 03, 2021 12:30:30.00 [13700:31020:0203/123030.001:ERROR:device_event_log_impl.cc(211)] [12:30:30.001] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+2월 04, 2021 08:50:49.56 [13700:33088:0204/085049.564:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+2월 04, 2021 08:50:56.45 [13700:33088:0204/085056.450:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+2월 04, 2021 08:50:56.46 [13700:34452:0204/085056.452:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 04, 2021 08:50:56.47 [13700:34452:0204/085056.456:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 04, 2021 08:50:57.19 [13700:31020:0204/085057.198:ERROR:device_event_log_impl.cc(211)] [08:50:57.197] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+2월 04, 2021 08:50:57.22 [13700:31020:0204/085057.224:ERROR:device_event_log_impl.cc(211)] [08:50:57.224] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+2월 04, 2021 08:51:06.61 [13700:31020:0204/085106.610:ERROR:device_event_log_impl.cc(211)] [08:51:06.609] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+2월 04, 2021 08:51:06.62 [13700:31020:0204/085106.628:ERROR:device_event_log_impl.cc(211)] [08:51:06.627] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+2월 04, 2021 08:51:39.61 [13700:31020:0204/085139.613:ERROR:device_event_log_impl.cc(211)] [08:51:39.613] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
